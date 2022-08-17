@@ -1,5 +1,5 @@
 Hello There..👋
-I am **Fahad Ahammed**, a **DevOps Engineer** based in **Dhaka, Bangladesh**. My current workplace is www.bongobd.com located in Dhaka which is an OTT platform.On my free time I try to explore new technology, solve problems, try to conotribute to open source and mostly I learn and build things and share them for others.
+I am **Fahad Ahammed**, a **DevOps Engineer** based in **Dhaka, Bangladesh**. On my free time I try to explore new technology, solve problems, try to conotribute to open source and mostly I learn and build things and share them for others.
 
 
 I am available for consulting about
