@@ -14,7 +14,7 @@ Please email me if you're interested at **[Fahad Ahammed](mailto:iamfahadahammed
 I don't write often, but you can follow my blog at **[medium/@fahadahammed](https://medium.com/@fahadahammed)** and in **[www.fahadahammed.com](https://fahadahammed.com)**.
 
 By the way...
-- 🔭 I’m currently working on [www.getashorturl.com](https://getashorturl.com)
+- 🔭 I’m currently working on .........
 - 🌱 I’m currently learning emberJS
 - 👯 I’m looking to collaborate on Python projects
 - 🤔 I’m looking for help with emberjs/angularjs mainly frontend.
