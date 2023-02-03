@@ -1,21 +1,16 @@
 Hello There..👋
 I am **Fahad Ahammed**, a **DevOps Engineer** based in **Dhaka, Bangladesh**. On my free time I try to explore new technology, solve problems, try to conotribute to open source and mostly I learn and build things and share them for others.
 
-
-I am available for consulting about
+I am available for consultancy about
 
 - Server Architecture
 - CI/CD Pipeline
 - Dockerization Applications
-- Heavy Web Traffic optimization
+- Cloud Infrastructure Provisioning
+- etc.
 
 Please email me if you're interested at **[Fahad Ahammed](mailto:iamfahadahammed@gmail.com?subject=[GitHub]%20Source%20Github%20Profile)**.
 
-I don't write often, but you can follow my blog at **[medium/@fahadahammed](https://medium.com/@fahadahammed)** and in **[www.fahadahammed.com](https://fahadahammed.com)**.
+I don't write often, but you can follow my blog at **[medium/@fahadahammed](https://medium.com/@fahadahammed)** and at **[www.fahadahammed.com](https://fahadahammed.com)**.
 
-By the way...
-- 🔭 I’m currently working on .........
-- 🌱 I’m currently learning emberJS
-- 👯 I’m looking to collaborate on Python projects
-- 🤔 I’m looking for help with emberjs/angularjs mainly frontend.
-- 💬 Ask me about DevOps, Python Flask, Linux, LXD, Docker
+
