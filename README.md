@@ -11,6 +11,6 @@ I am available for consultancy about
 
 Please email me if you're interested at **[Fahad Ahammed](mailto:iamfahadahammed@gmail.com?subject=[GitHub]%20Source%20Github%20Profile)**.
 
-I don't write often, but you can follow my blog at **[medium/@fahadahammed](https://medium.com/@fahadahammed)** and at **[www.fahadahammed.com](https://fahadahammed.com)**.
+I don't write often, but you can follow my blog at **[medium/@fahadahammed](https://fahadahammed.medium.com)** and at **[www.fahadahammed.com](https://fahadahammed.com)**.
 
 
